@@ -1,6 +1,6 @@
 ﻿# CV
 ### Svetlana Kuznetsova
-***
+___
 
 1. **Name and surname:** Svetlana Kuznetsova
 2. **Contact number:** +37529-379-09-13
@@ -12,4 +12,4 @@
    - *Javascript* [completed Kata](https://www.codewars.com/users/Kuzyaka/completed)
 6. **English Level:** *A2* (speaking), *B1* (writing).
 
-___
+***
